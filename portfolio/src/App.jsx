@@ -1,7 +1,12 @@
-import { useState } from "react";
+import { Fragment, useState } from "react";
+import Header from "./assets/header";
 
-import "./App.css";
-
-function App() {}
+function App() {
+  return (
+    <Fragment>
+      <Header />
+    </Fragment>
+  );
+}
 
 export default App;
