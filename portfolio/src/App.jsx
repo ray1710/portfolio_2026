@@ -20,7 +20,7 @@ function App() {
       <div className="relative z-10">
         <Header />
       </div>
-      <div className="relative z-10 flex justify-center items-center">
+      <div className="relative z-10 flex justify-center items-center pt-25">
         <Headshot />
       </div>
     </div>
